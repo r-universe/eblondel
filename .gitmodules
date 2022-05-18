@@ -3,3 +3,48 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "atom4R"]
+	path = atom4R
+	url = https://github.com/eblondel/atom4r
+	shallow = true
+	registered = true
+[submodule "cleangeo"]
+	path = cleangeo
+	url = https://github.com/eblondel/cleangeo
+	shallow = true
+	registered = true
+[submodule "d4storagehub4R"]
+	path = d4storagehub4R
+	url = https://github.com/eblondel/d4storagehub4r
+	shallow = true
+	registered = true
+[submodule "geometa"]
+	path = geometa
+	url = https://github.com/eblondel/geometa
+	shallow = true
+	registered = true
+[submodule "geonapi"]
+	path = geonapi
+	url = https://github.com/eblondel/geonapi
+	shallow = true
+	registered = true
+[submodule "geosapi"]
+	path = geosapi
+	url = https://github.com/eblondel/geosapi
+	shallow = true
+	registered = true
+[submodule "ocs4R"]
+	path = ocs4R
+	url = https://github.com/eblondel/ocs4r
+	shallow = true
+	registered = true
+[submodule "ows4R"]
+	path = ows4R
+	url = https://github.com/eblondel/ows4r
+	shallow = true
+	registered = true
+[submodule "zen4R"]
+	path = zen4R
+	url = https://github.com/eblondel/zen4r
+	shallow = true
+	registered = true
