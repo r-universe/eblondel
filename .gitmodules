@@ -48,8 +48,3 @@
 	url = https://github.com/eblondel/zen4r
 	shallow = true
 	registered = true
-[submodule "rdflib"]
-	path = rdflib
-	url = https://github.com/ropensci/rdflib
-	shallow = true
-	registered = false

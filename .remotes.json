@@ -1,8 +1,0 @@
-[
-  {
-    "package": "rdflib",
-    "url": "https://github.com/ropensci/rdflib",
-    "via": ["atom4R"],
-    "from": "atom4R"
-  }
-]
