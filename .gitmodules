@@ -17,6 +17,9 @@
 [submodule "geonapi"]
 	path = geonapi
 	url = https://github.com/eblondel/geonapi
+[submodule "geonode4R"]
+	path = geonode4R
+	url = https://github.com/eblondel/geonode4r
 [submodule "geosapi"]
 	path = geosapi
 	url = https://github.com/eblondel/geosapi
