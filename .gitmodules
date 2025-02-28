@@ -29,6 +29,9 @@
 [submodule "ows4R"]
 	path = ows4R
 	url = https://github.com/eblondel/ows4r
+[submodule "rsdmx"]
+	path = rsdmx
+	url = https://github.com/eblondel/rsdmx
 [submodule "zen4R"]
 	path = zen4R
 	url = https://github.com/eblondel/zen4r
